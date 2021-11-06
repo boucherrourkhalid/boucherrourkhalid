@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @boucherrourkhalid
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+boucherrourkhalid/boucherrourkhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->je suis un debutant dans ce domaine 
+je veut  savoir comment installer React Redux dans l'environnement windows vs code
+comment installer •	React dev tools  et •	Redux dev tools 
+a noter je parle pas l'anglais,  je parle le francais
